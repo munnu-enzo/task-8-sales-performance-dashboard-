@@ -1,0 +1,10 @@
+
+ Sales Dashboard Insights
+
+1. The West region had the highest total sales, exceeding 700K, followed by the East and Central regions, while the South region recorded the lowest sales performance.
+
+2. Office Supplies was the top-selling product category with 36.4% of total sales, outperforming both Technology and Furniture.
+
+3. Sales peaked in early 2014, with the highest monthly sales occurring in January 2014 and have gradually declined over time through 2017.
+
+4. The Region slicer allows quick filtering, making it easy to compare performance across regions interactively.
